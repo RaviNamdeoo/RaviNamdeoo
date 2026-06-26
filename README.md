@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">◈ 🏗️ MY OWN ML PIPELINE</h2>
+<h2 align="center">◈ MY OWN ML PIPELINE</h2>
 
 <p align="center">How I structure most of my projects end-to-end</p>
 
@@ -53,7 +53,7 @@ graph LR
 ---
 
 <div align="center">
-<h2 align="center">◈ 🚀 IMPACT AT A GLANCE</h2>
+<h2 align="center">◈ IMPACT AT A GLANCE</h2>
 
 | ⚡ Metric                     | 📈 Result                                          |
 | ----------------------------- | --------------------------------------------------- |
@@ -96,37 +96,15 @@ graph LR
 
 <h2 align="center">◈ PROJECT SHOWCASE</h2>
 
-<div align="center">
-
-**🎯 Student Exam Performance Predictor**
-`Flask` `Docker` `AWS ECS Fargate` `CI/CD`
-End-to-end ML app, deployed live with automated pipeline.
-
-**💳 Online Payment Fraud Detection**
-`XGBoost` `SMOTE`
-Handles severe class imbalance to catch rare fraud cases.
-
-**📈 Demand Forecasting**
-`XGBoost` `Streamlit`
-Forecasting app with an interactive dashboard.
-
-**🛒 Customer Segmentation**
-`K-Means` `Streamlit`
-Clusters customers for targeted business insights.
-
-**💻 Laptop Price Predictor**
-`Random Forest` `Streamlit`
-Predicts laptop prices from spec inputs.
-
-**📚 Book Recommender System**
-`KNN` `Collaborative Filtering` `Streamlit`
-Recommends books using nearest-neighbor similarity.
-
-**📩 Email Spam Classifier**
-`Random Forest` `TF-IDF` `NLTK`
-Deployed on Streamlit Community Cloud.
-
-</div>
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Student Exam Performance Predictor** | `Flask` `Docker` `AWS ECS Fargate` `GitHub Actions` `CI/CD` | Production-ready end-to-end ML application deployed on AWS with Docker containers, automated CI/CD pipeline, REST API, and modular architecture. |
+| **Online Payment Fraud Detection** | `Python` `XGBoost` `SMOTE` `Streamlit` | Detects fraudulent online transactions using advanced class imbalance handling and gradient boosting for real-world financial fraud detection. |
+| **Book Recommender System** | `KNN` `Collaborative Filtering` `Streamlit` | Personalized recommendation engine that suggests similar books using collaborative filtering with an interactive web interface. |
+| **Demand Forecasting** | `XGBoost` `Pandas` `Streamlit` | Forecasts future product demand to support inventory planning and business decision-making through an interactive dashboard. |
+| **Customer Segmentation** | `K-Means` `Scikit-learn` `Streamlit` | Performs customer clustering to identify behavioral segments for targeted marketing and business analytics. |
+| **Laptop Price Predictor** | `Random Forest` `Scikit-learn` `Streamlit` | Regression model that estimates laptop prices from hardware specifications with an intuitive prediction interface. |
+| **Email Spam Classifier** | `Random Forest` `TF-IDF` `NLTK` | NLP-powered email classifier that distinguishes spam from legitimate messages using text vectorization and machine learning. |
 
 ---
 
@@ -170,9 +148,7 @@ Deployed on Streamlit Community Cloud.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaviNamdeoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviNamdeoo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaviNamdeoo&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&border_radius=12)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviNamdeoo&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&radius=12)
@@ -181,6 +157,7 @@ Deployed on Streamlit Community Cloud.
 
 ---
 
+<div align="center">
 <h2 align="center">◈ EDUCATION</h2>
 
 ```
@@ -191,14 +168,13 @@ Deployed on Streamlit Community Cloud.
 ║   Focus: Data Science & Machine Learning                 ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+</div>
 
 ---
 
 <h2 align="center">◈ LET'S CONNECT</h2>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Open+to+Data+Science+%2F+ML+Internship+roles;Let%27s+talk+about+ML%2C+Kaggle%2C+or+collabs)](https://linkedin.com/in/ravinamdeo)
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravinamdeo)
 [![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviNamdeoo)
