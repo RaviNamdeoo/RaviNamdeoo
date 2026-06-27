@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&color=080A0F&fontColor=00D4FF&text=%3E_%20RAVI%20NAMDEO&fontSize=38&fontAlignY=47&fontAlignX=45&animation=fadeIn" alt="banner" />
+
 <div align="center">
 
 
@@ -17,7 +19,7 @@
 
 |  |  |
 |---|---|
-| 🪪 **PROFILE NAME** | **RAVI NAMDEO** |
+| **PROFILE NAME** | **RAVI NAMDEO** |
 | **Role** | Data Science & ML Enthusiast |
 | **Focus** | Machine Learning · Kaggle Competitions |
 | **Institution** | O.P. Jindal University, CSE — CGPA 8.42/10 |
@@ -68,7 +70,7 @@ graph LR
 ---
 
 <div align="center">
-<h2 align="center">◈ 🔬 CURRENTLY IN THE LAB</h2>
+<h2 align="center">◈ CURRENTLY IN THE LAB</h2>
 
 | 🔨 Building                              | 📖 Exploring                          | 🎯 Next Goal                     |
 | ----------------------------------------- | --------------------------------------| ----------------------------------|
