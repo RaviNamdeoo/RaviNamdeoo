@@ -150,7 +150,6 @@ graph LR
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviNamdeoo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaviNamdeoo&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&border_radius=12)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviNamdeoo&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&radius=12)
