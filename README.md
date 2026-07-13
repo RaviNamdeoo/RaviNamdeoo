@@ -159,14 +159,14 @@ graph LR
 ---
 
 <div align="center">
-<h2 align="center">◈ EDUCATION</h2>
+<h2 align="center">◈ EDUCATION</h2> 
 
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   🎓  O.P. JINDAL UNIVERSITY  ·  Chhattisgarh, India     ║
 ║   B.Tech · Computer Science & Engineering                ║
 ║   CGPA: 8.42 / 10.0  ✦                                   ║
-║   Focus: Data Science & Machine Learning                 ║
+║   Focus: Artificial Intelligence & Machine Learning      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 </div>
